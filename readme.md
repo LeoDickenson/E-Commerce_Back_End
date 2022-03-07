@@ -1,7 +1,7 @@
-##Requirements
+## Requirements
 Node.js, Express.js, and sequelize
 
-##Installation/Start Instructions
+## Installation/Start Instructions
 
 * Clone from github
 * run 'mysql -u root -p' and enter password
